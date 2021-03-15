@@ -1,4 +1,4 @@
 - 👋 Hey, my name is Rob
-- 👓 I'm a backend Java developer of many years, now looking to explore more technologies
+- 👓 I'm a backend Java developer of many years, looking to explore more technologies
 - 🌱 I'm currently trying out Rust and dabbling in a bit of JavaScript 
 - 👀 I’m not sure what I'm interested in yet but I intend to find out!
